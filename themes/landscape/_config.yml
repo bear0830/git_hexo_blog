@@ -7,12 +7,12 @@ head:
     favicon: "/img/logo_miccall.png"
     high_res_favicon: "/img/logo_miccall.png"
     apple_touch_icon: "/img/logo_miccall.png"
-    keywords: miccall
+    keywords: fan
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    name: fan
+    slogan: "Fans assemble <br/> Go Go Go"
+    HeadButton: fan
 
 Nav:
     Home_name: 主页
@@ -22,7 +22,7 @@ Nav:
     archives_name: 归档
     icon:
         github: 
-            use: true
+            use: false
             link: https://github.com/miccall
         Twitter:
             use: false
@@ -35,7 +35,7 @@ Nav:
             link:
     pages:
         简历: 
-            link: "/about/"
+            link: "/categories/Design/"
         团队 :
             link: "/group/"
         图库 :
@@ -46,14 +46,14 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
+    name: Fan
     description: Welcome to my Blog  
     pic_url: /images/me.jpg
     goto_ulr: ""
 
 Gallery :
-    title: Mr.metro 
-    description: Just another fine responsive 
+    title: Fan 
+    description: Fans
 
 # ---------------------------------------------------------------
 # Style Settings
